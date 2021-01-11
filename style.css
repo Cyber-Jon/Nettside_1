@@ -1,0 +1,44 @@
+body {
+background-color: #012634;
+font-family: sans-serif;
+}
+
+
+h1 {
+  text-align: center;
+  color: #018659;
+  font-size: 70px;
+}
+
+h2{
+  color: violet;
+  text-align: center;
+  margin-top: 50px;
+  font-style: italic;
+  font-size: 30px;
+}
+
+.bilde {
+  width: 500px;
+  border-radius: 50%;
+  border-color: gray;
+border-width: 4px;
+border-style: solid;
+display: block;
+margin-left: auto;
+margin-right: auto;
+margin-top: 40px;
+
+
+}
+
+p {
+  color: red;
+  text-align: center;
+}
+
+.sitat {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 20px
+}
